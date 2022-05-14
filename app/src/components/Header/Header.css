@@ -1,0 +1,8 @@
+.header{
+    background-color: rgb(243, 149, 243);
+    padding: 36px 12px;
+    display: flex;
+    justify-content: center;
+    box-shadow: 0 4px 6px rgb(58, 4, 58);
+  
+}
